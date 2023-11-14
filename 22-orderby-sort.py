@@ -16,6 +16,3 @@ display(df.orderBy(df['name'].desc(), df['salary'].desc()))
 display(
   df.sort( df['name'].asc(), df['salary'].asc() )
 )
-
-# COMMAND ----------
-

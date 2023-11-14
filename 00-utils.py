@@ -10,6 +10,7 @@ data_df = [
   {'id': 3, 'name': 'Lucas', 'salary': 5000.0, 'gender': 'm', 'department_id': 2, 'manager_id': 2},
   {'id': 4, 'name': 'Rodrigo', 'salary': 4000.0, 'gender': 'm', 'department_id': 1, 'manager_id': 0},
   {'id': 6, 'name': 'Rodrigo', 'salary': 4000.0, 'gender': 'm', 'department_id': 1, 'manager_id': 1},
+  {'id': 6, 'name': 'Igor', 'salary': 2500.0, 'gender': 'm', 'department_id': 1, 'manager_id': 1},
   {'id': 8, 'name': 'Lais', 'salary': 8000.0, 'gender': 'm', 'department_id': 3, 'manager_id': 1},
   {'id': 5, 'name': 'João', 'salary': 25000.0, 'gender': 'm', 'department_id': 4, 'manager_id': 2},
   {'id': 9, 'name': 'Gabriel', 'salary': 25000.0, 'gender': 'm', 'department_id': 7, 'manager_id': 4},
